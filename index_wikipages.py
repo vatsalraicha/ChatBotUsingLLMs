@@ -1,4 +1,4 @@
-# REPLACE THIS WITH YOUR CODE
+
 # Imports
 from llama_index import download_loader, VectorStoreIndex, ServiceContext
 from llama_index.node_parser import SimpleNodeParser
